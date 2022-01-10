@@ -1,0 +1,20 @@
+||====================================LIST======================================||
+||01: Khởi Tạo List					|			||
+||02: Thêm Một phần từ vào List (vào cuối)		| Sử Dụng 'Append'	||
+||03: Thêm Một phần tử vào vị trí B 			| Sử dụng 'insert'	||
+||04: Thêm Một List cho trước vào sau List 		| Sử dụng 'extend'	||
+||05: Thêm N phần Tử, N nhập từ bàn phím .		|			||
+||06: Xóa Phần Tử B. 					| Sử dụng 'remove'	||
+||07: Xóa Phần Tử có Vị Trí B. 				| Sử dụng 'pop'		||
+||08: Xóa Phần Tử có  Vị Trí cuối cùng. 		| Sử dụng 'pop'		||
+||09: Xóa Phần Tử có Vị Trí B. 				| Sử dụng 'del'		||
+||10: Xóa Hết List, Còn List rỗng! 			|Sử dụng 'del'		||
+||11: Xóa Hết List,Còn List rỗng ! 			|Sử dụng 'clear'	||
+||12: Tìm kiếm phần tử x nhập từ Bàn Phím.		|			||
+||13: Duyệt List (Xuất ra màn hình các Phần tử).	| 			||
+||14: Số Lượng Phần tử tròng List.			|Sử Dụng 'len'		||
+||15: Sắp xếp Array Giảm Dần.				|Sử dụng 'sort'		||
+||16: Sắp xếp Array Tăng Dần				|Sử dụng'sort''reverse'	||
+||17: Đảo ngược List.					|Sử dụng 'reverse'	||
+||18: Sắp xếp dựa theo N nhập từ bàn phím		|Sử dụng'sort'		||
+||==============================================================================||
